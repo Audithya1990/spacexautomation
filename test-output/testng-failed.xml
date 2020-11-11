@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [APIAutomation]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="SpaceXGetMethod(failed)">
+    <classes>
+      <class name="com.testscripts.SpaceXGetMethod">
+        <methods>
+          <include name="spaceXGetMethod"/>
+        </methods>
+      </class> <!-- com.testscripts.SpaceXGetMethod -->
+    </classes>
+  </test> <!-- SpaceXGetMethod(failed) -->
+</suite> <!-- Failed suite [APIAutomation] -->
